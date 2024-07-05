@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseLuisRiquelme
-- 👀 I’m interested in Android development, Web development (Front-end, Back-end)
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on proyect about android development
+- 👀 I’m interested in Java, Game development and Android development, Web development (Front-end, Back-end)
+- 🌱 I’m currently learning Kotlin and Godot engine.
+- 💞️ I’m looking to collaborate on project about Godot, android development
 - 📫 How to reach me, by email jose.riquelmes@usach.cl
 
 <!---
