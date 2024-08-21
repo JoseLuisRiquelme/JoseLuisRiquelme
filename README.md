@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning C# and Unity engine.
 - 💞️ I’m looking to collaborate on project about Unity, C# development
 - 📫 How to reach me, by email jose.riquelmes@usach.cl
+- 🌐 More directly by linkedin: https://www.linkedin.com/in/jose-luis-riquelme-saez/ 
 
 <!---
 JoseLuisRiquelme/JoseLuisRiquelme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
