@@ -11,7 +11,7 @@
 * 💻   Java Spring Boot 
 * 🌐   JavaScript React Node.js Express.js Bootstrap SCSS 
 * 🛢   PostgreSQL 
-* ⚙️   Git GitHub Markdown
+* ⚙️   Git GitHub 
 * 🔧   Intellij Visual Studio Code  Eclipse
 
 # 🤝🏻  Connect with Me
