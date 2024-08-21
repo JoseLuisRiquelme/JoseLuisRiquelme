@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @JoseLuisRiquelme
+- 🌎 Am Chilean, Santiago
+- 💻 Am web dev
+- 📚 I know about Java in the Back, and React in the Front.
 - 👀 I’m interested in Java, C#, Game development, Web development (Front-end, Back-end)
 - 🌱 I’m currently learning C# and Unity engine.
 - 💞️ I’m looking to collaborate on project about Unity, C# development
