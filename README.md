@@ -11,7 +11,7 @@
 
 # 🛠  Tech Stack
 * 💻   Java Spring Boot 
-* 🌐   JavaScript Node.js React Bootstrap SCSS 
+* 🌐   JavaScript React Node.js Express.js Bootstrap SCSS 
 * 🛢   PostgreSQL 
 * ⚙️   Git GitHub Markdown
 * 🔧   Intellij Visual Studio Code  Eclipse
