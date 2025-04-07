@@ -1,18 +1,18 @@
 # 👋 Hi, I’m @JoseLuisRiquelme
 # 👨🏻‍💻  About Me
 - 🌎 Am Chilean, Santiago
-- 💻 Am web dev
+- 💻 Am android dev
 - 📚 I know about Java in the Back, and React in the Front.
-- 👀 I’m interested in Java, C#, Game development, Web development (Front-end, Back-end)
-- 🌱 I’m currently learning C# and Unity engine.
-- 💞️ I’m looking to collaborate on project about Unity, C# development
+- 👀 I’m interested in Java, Kotlin, Game development, Web development (Front-end, Back-end)
+- 🌱 I’m currently learning Kotlin and Android Studio.
+- 💞️ I’m looking to collaborate on project about Kotlin, Android development
 
 # 🛠  Tech Stack
 * 💻   Java Spring Boot 
 * 🌐   JavaScript React Node.js Express.js Bootstrap SCSS 
 * 🛢   PostgreSQL 
 * ⚙️   Git GitHub 
-* 🔧   Intellij Visual Studio Code  Eclipse
+* 🔧   Intellij Android studio Visual studio code  Eclipse
 
 # 🤝🏻  Connect with Me
 - 📫 By email jose.riquelmes@usach.cl
